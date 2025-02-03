@@ -18,7 +18,7 @@ public class Car {
         return _make;
     }
 
-    public boolean getHandicap() {
+    public boolean isHandicap() {
         return _handicap;
     }
 }
